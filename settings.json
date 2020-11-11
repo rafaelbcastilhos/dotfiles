@@ -1,0 +1,12 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "tabnine.experimentalAutoImports": true,
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "Fira Code Retina",
+    "editor.fontSize": 12,
+    "aws.profile": "profile:default",
+    "python.showStartPage": false,
+    "editor.fontWeight": 1000,
+    "editor.codeActionsOnSave": null,
+    "workbench.colorTheme": "Dracula"
+}
